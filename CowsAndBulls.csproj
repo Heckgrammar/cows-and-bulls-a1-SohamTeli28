@@ -51,3 +51,64 @@
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
+  int _min = 0000; 
+
+    int _max = 9999; 
+
+    Random _rdm = new Random(); 
+
+    return _rdm.Next(_min, _max); 
+
+            Console.WriteLine("Discover the hidden code Guess the four digit number"); 
+
+  
+
+// USERINPUT ← (" INT [4] INT[5] INT[6] INT[7] ") 
+
+  
+
+  
+
+If INT[0] = INT[4] OR INT[1] = INT[5] OR INT[2] = INT[6] OR INT[3] = INT[7] 
+
+  
+
+OUTPUT(NUM) BULLS 
+
+  
+
+INT[0] = INT[4, 6, 7, 8} 
+
+  
+
+        IF INT[1] = INT[4, 6, 7, 8} 
+
+  
+
+    IF INT[2] = INT4, 6, 7, 8} 
+
+  
+
+IF INT[3] = INT[4, 6, 7, 8}  
+
+  
+
+Console.WriteLine (Enum 2) object cOWS = cOWS; 
+
+  
+
+[0] INT[1] INT[2] INT[3] = INT[4] INT[5] INT[6] INT[7] 
+
+  
+
+IF← INT[0] INT[1] INT[2] INT[3] = INT[4] object value = INT[5]; INT[6] object value1 = INT[7][0]; INT[1] ("object value2) = INT[2]; INT[3] NOT EQUAL INT[4] INT[5] INT[6] INT[7]; 
+
+  
+
+Console.WriteLine("Better Luck next time "); 
+
+  
+
+Console.WriteLine("Try Again"); 
+
+        
